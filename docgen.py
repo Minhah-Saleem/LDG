@@ -18,7 +18,7 @@ st.sidebar.info(
     )
 
 model_engine = "text-davinci-003"
-openai.api_key = "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"
+openai.api_key = "Your API key"
 
 document_types = {
     "Last Will and Testament Template": {
